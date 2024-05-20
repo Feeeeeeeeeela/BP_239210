@@ -1,0 +1,5 @@
+AUTO_pause_resume_speed.mp4 - ukázka manuálního režimu s pozastavením a změnou rychlosti
+AUTO_s_chybou.mp4 - automatický režim s chybou, kdy neproběhla komunikace během zaslání pro vykonání pohybu - robot se na chvilku zastavil aniž by došlo k pauze (okolo 28s) - v programu je to ošetřeno časokvum intervalem 2, kdy se zopakuje příkaz o vykonání pohybu
+AUTO_speed.mp4 - další ukázka automatického režimu se změnou rychlosti
+Manuální_režim.mp4 - ukázka manuálního režimu
+RT-Manuální_režim.mp4 - ukázka RT-manuálního režimu
