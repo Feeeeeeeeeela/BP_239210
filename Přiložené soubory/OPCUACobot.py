@@ -274,7 +274,7 @@ def main():
                         write_value("AUTO_Startstav", False, "bool")
 
                     current_time = time()
-                    time_diff = current_time - starttime
+                    time_diff = current_time - start_time
                     if time_diff >= max_time:
                         move = True
                         print("Restarting movement")
