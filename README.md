@@ -1,1 +1,1 @@
-BEHOLD
+Bachelor thesis deals with the design and creation of communication between an industrial PLC Siemens 1511-C and a non-industrial 6-axis robot MyCobot 280-PI. The practical output is a fully functional setup of the robot and PLC with a program. The robot can be controlled using the Siemens TP700 touch panel. The work describes all the steps of the implementation, from the selection of components, software implementation and testing. It also ncludes a theoretical introduction to the relevant topics, particularly industrial control systems and robotics.
